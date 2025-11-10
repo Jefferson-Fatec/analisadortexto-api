@@ -1,0 +1,1 @@
+# analisadortexto-api
