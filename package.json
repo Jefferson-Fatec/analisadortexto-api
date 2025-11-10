@@ -2,10 +2,9 @@
   "name": "analisadortexto-api",
   "version": "1.0.0",
   "description": "projeto analisador de texto",
-  "main": "servidor.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node servidor.js",
-    "test": "echo \"Sem testes\" && exit 0"
+    "start": "node index.js"
   },
   "author": "fatec",
   "license": "ISC",
